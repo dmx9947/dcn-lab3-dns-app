@@ -1,0 +1,1 @@
+NAME=fibonacci.com VALUE=127.0.0.1 TTL=10
